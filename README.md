@@ -1,4 +1,4 @@
-# Steve Withington
+# steve withington
 
 Founder [digitalmine LLC](https://digitalmine.com) • Enterprise Data/Analytics/Software Engineer + Cloud Solution Architect • Data Storyteller • Leader • Doer • Problem Solver
 
