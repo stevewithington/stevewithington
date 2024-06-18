@@ -18,11 +18,12 @@ _Founder [digitalmine LLC](https:/digitalmine.com) • Chief Data Strategist •
 
 _May 2018 – Present_
 
+* Expertise in data architecture, data modeling, engineering, and data warehousing with modern data technologies such as Snowflake, Databricks, ClickHouse, Firebolt, dbt, and Fivetran
+* In-depth knowledge of DevOps engineering using version control and Continuous Integration/Continuous Delivery (CI/CD) with modern Cloud solution providers such as Amazon Web Services (AWS) and Microsoft Azure
+* Engages with both technical and non-technical stakeholders on a regular basis
 * Possesses strong understanding of data strategy frameworks, data governance, data quality, and master data management
 * Experienced leading and guiding large organizations through technology assessments, compliance and regulatory audits such as GDPR, HIPAA, and SOC 2
-* Expertise in data architecture, data modeling, and engineering with modern data technologies such as Snowflake, dbt, and Fivetran
 * Continually learning cutting-edge data technologies such as Generative AI and Large Language Models (LLMs)
-* Established successful partnerships with third-party data and technology solutions companies such as Snow Fox Data and Excelion Partner
 
 Recent projects:
 
