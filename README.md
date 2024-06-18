@@ -30,11 +30,13 @@ Recent projects:
   * Slashed manual labor hours by over 80% with data processing automation
   * Led and architected self-service analytics and business intelligence environment with trusted, secure datasets
   * Armed client with insight to financial data at a granular level and speed previously unattainable
-*	International Training and Consulting Company
-  *	Kept Data Engineering department running after client lost entire team prior to engagement
-  *	Conducted thorough audit of client's tech/data stack, met with stakeholders from across the organization to understand their unique needs, and made recommendations to solve client's issues, needs, and operational goals
-  *	Led initial engineering and implementation phase as we interviewed, hired, and mentored a new team
-*	National Non-Profit Organization
+
+* International Training and Consulting Company
+  * Kept Data Engineering department running after client lost entire team prior to engagement
+  * Conducted thorough audit of client's tech/data stack, met with stakeholders from across the organization to understand their unique needs, and made recommendations to solve client's issues, needs, and operational goals
+  * Led initial engineering and implementation phase as we interviewed, hired, and mentored a new team
+
+* National Non-Profit Organization
   *	Engineered, and managed a cloud environment for client's e-commerce website with 20,000+ active users per month
   *	Successfully led and mentored technology team consisting of both onshore personnel and offshore contractors
 
