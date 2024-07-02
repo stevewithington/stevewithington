@@ -6,8 +6,6 @@ _Founder [digitalmine LLC](https:/digitalmine.com) • Chief Data Strategist •
 
 ## Career Summary
 
-✅ 25+ years of continually seeking opportunities for personal growth and knowledge sharing with others
-
 ✅ 20+ years of experience in software, data, analytics, and business intelligence solutions
 
 ✅ 18+ years of experience in building, leading, and mentoring cross-functional, high performing teams upwards of 100+
