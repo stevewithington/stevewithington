@@ -1,6 +1,6 @@
 # Steve Withington
 
-_Founder [digitalmine LLC](https:/digitalmine.com) • Chief Data Strategist • Principal Data Architect & Engineer • Consultant_
+_Solutions Architect Manager @ [Sentry](https://sentry.com)_
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevewithington)
 
